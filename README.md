@@ -5,7 +5,7 @@
 
 <p align="center"> <strong>A self-taught individual who fell in love with the world of web development, specifically the Front End!😍I'm working hard to improve my coding  bit by bit (almost) everyday. You can usually find me doing Frontend Mentor Challenges for practicing the skills that I have gained so far! </strong></p>
 
-<p align="center">🌱 I’m currently learning 📌React and 📌GSAP</p>
+<p align="center">🌱 I’m currently learning 📌<strong><em>React</em></strong> and 📌<strong><em>GSAP</em></strong></p>
 <img align="right" alt="Coding" width="400" src="https://theappstation.net/wp-content/uploads/2022/12/css-1-3.gif">
 
 <h4 align="center">Languages and Tools that I use:</h4>
