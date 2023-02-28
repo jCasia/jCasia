@@ -24,7 +24,9 @@
 <h4 align="center">What I would love to learn in the near future:</h4>
 <p align="center">
  <img title="TypeScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+ <img title="React native" src="https://toppng.com/uploads/preview/react-native-svg-transformer-allows-you-import-svg-aperture-science-innovators-logo-11562851994zqcpwozsvy.png" alt="reactnative" width="40" height="40"/>
  <img title="Angular" src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
+ <img title="Next.js"src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
  <img title="Three.js" src="https://onecode.co.il/onecode/wp-content/uploads/2021/11/three-js-logo.png" alt="threejs" width="40" height="40"/>
  <img title="Blender" src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/>
  <img title="node.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
