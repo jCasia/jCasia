@@ -3,7 +3,7 @@
 <h2 align="center">Junior Front End Developer</h2>
 
 
-<p align="center"> A self-taught individual who fell in love with the world of web development, specifically the Front End!😍I'm working hard to improve my coding  bit by bit (almost) everyday. You can usually find me doing Frontend Mentor Challenges for practicing the skills that I have gained so far! </p>
+<p align="center"> A self-taught individual who fell in love with the world of web development!😍I'm working hard to improve my coding  bit by bit (almost) everyday. You can usually find me doing Frontend Mentor Challenges for practicing the skills that I have gained so far! </p>
 
 <p align="center">🌱 I’m currently learning 📌<strong><em>React</em></strong> and 📌<strong><em>TypeScript</em></strong></p>
 <img align="right" alt="Coding" width="325" src="https://theappstation.net/wp-content/uploads/2022/12/css-1-3.gif">
@@ -19,6 +19,7 @@
  <img title="git" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>  
  <img title="Figma" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>  
  <img title="TypeScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+ <img title="Tailwind CSS" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
 </p>
 <br>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jcasia&show_icons=true&locale=en&layout=compact" alt="jcasia" /></p>
