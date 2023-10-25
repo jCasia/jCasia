@@ -7,7 +7,6 @@
 
 
 
-
 <h4 align="center">Languages and Tools that I use:</h4>
 <p align="center"> 
  <img title="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
@@ -22,7 +21,13 @@
  <img title="Tailwind CSS" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
  <img title="Vue" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>  
 </p>
-<br>
 
+<h4 align="center">I am currently learning:</h4>
+<p align="center">
+ <img title="Nodejs" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+ <img title="Express"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+ <img title="MongoDB"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+</p>
+<br>
 
 <p align="center">😀<strong>******Feel free to check out any of my repositories******</strong>😀</p>
