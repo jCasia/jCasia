@@ -3,7 +3,7 @@
 <h2 align="center">Junior Front End Developer</h2>
 
 
-<p align="center"> A self-taught individual who fell in love with the world of web development!😍I'm working hard to improve my coding  bit by bit (almost) everyday. You can usually find me doing Frontend Mentor Challenges for practicing the skills that I have gained so far! </p>
+<p align="center"> A self-taught individual who fell in love with the world of web development!😍I'm working hard to improve my coding bit by bit (almost) everyday. You can usually find me doing Frontend Mentor Challenges for practicing the skills that I have gained so far! Additionally, I am currently learning the Back End of web development </p>
 
 
 
